@@ -2,7 +2,7 @@
 - 📍 Remote | Belgium
 - 👀 I’m interested in programming, artificial intelligence, machine learning, data analysis.
 - 🌱 I’m currently employed as a java software developer.
-- ⚙️ Tech Stack : JPA | SPRING | JSP | JAX-WS | REST | SOAP | Ajax | JAVASCRIPT | SQL | JUNIT | CSS | HTML | ARQUILLIAN | DOCKER | PYTHON 
+- ⚙️ Tech Stack : JPA | SPRING | JSP | JAX-WS | REST | SOAP | AJAX | JAVASCRIPT | SQL | JUNIT | CSS | HTML | ARQUILLIAN | DOCKER | PYTHON | SELENIUM
 - 💞️ I’m looking to collaborate on opensource artificial intelligence or machine learning projects.
 - 📫 How to reach me :
   🐈 [Github](https://github.com/gillesngongang)
